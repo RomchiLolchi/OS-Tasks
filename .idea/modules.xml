@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OS-Tasks.iml" filepath="$PROJECT_DIR$/.idea/OS-Tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OS-tasks.iml" filepath="$PROJECT_DIR$/.idea/OS-tasks.iml" />
     </modules>
   </component>

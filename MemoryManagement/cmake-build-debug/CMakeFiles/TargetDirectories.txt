@@ -1,0 +1,4 @@
+C:/Users/roman/PycharmProjects/OS-tasks/MemoryManagement/cmake-build-debug/CMakeFiles/MemoryEatingCalloc.dir
+C:/Users/roman/PycharmProjects/OS-tasks/MemoryManagement/cmake-build-debug/CMakeFiles/MemoryEatingMalloc.dir
+C:/Users/roman/PycharmProjects/OS-tasks/MemoryManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/roman/PycharmProjects/OS-tasks/MemoryManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
