@@ -9,6 +9,7 @@ pid = os.getpid()
 output_str = "pid: {}, Стандартный вывод - не было получено сигналов".format(pid)
 exit_flag = False
 
+
 def signal_processor(incoming_signal, frame):
     global output_str, exit_flag
     if incoming_signal == signal.SIGUSR1:

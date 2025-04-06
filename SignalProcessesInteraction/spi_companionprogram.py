@@ -4,6 +4,7 @@
 import signal
 import os
 
+
 def send_signal_flow():
     signal_to_send: signal
     signal_input = input(

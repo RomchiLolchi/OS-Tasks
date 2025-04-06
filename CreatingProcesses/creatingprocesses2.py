@@ -4,7 +4,8 @@ import os
 
 
 def print_processes_ids(print_prefix=""):
-    print(print_prefix, "\nИдентификатор текущего процесса: ", os.getpid(), "\nИдентификатор родительского процесса: ", os.getppid())
+    print(print_prefix, "\nИдентификатор текущего процесса: ", os.getpid(), "\nИдентификатор родительского процесса: ",
+          os.getppid())
     try:
         input("Ожидание любого ввода для завершения\n")
     except EOFError:
